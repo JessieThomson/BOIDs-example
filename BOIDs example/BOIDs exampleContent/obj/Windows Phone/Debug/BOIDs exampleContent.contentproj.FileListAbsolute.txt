@@ -1,0 +1,8 @@
+c:\work\visual studio 2010\Projects\BOIDs example\BOIDs example\BOIDs exampleContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+K:\TeamProject\BOIDs example\BOIDs example\BOIDs exampleContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Jessie\Documents\Team Project\BOIDs example\BOIDs example\BOIDs exampleContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+K:\TeamProject\BOIDs example-Working\BOIDs example\BOIDs example\BOIDs exampleContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Jessie\Documents\Team Project\BOIDs example-Working(1)\BOIDs example-Working\BOIDs example\BOIDs example\BOIDs exampleContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Jessie\Documents\Team Project\BOIDs example-Current\BOIDs example-Working\BOIDs example\BOIDs example\BOIDs exampleContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Jessie\Documents\Uni Work\4Th Year\Team Project\BOIDs example-Current\BOIDs example-Working\BOIDs example\BOIDs example\BOIDs exampleContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+D:\4Th Year\Team Project\BOIDs example-Current\BOIDs example-Working\BOIDs example\BOIDs example\BOIDs exampleContent\obj\Windows Phone\Debug\BOIDs exampleContent.contentprojResolveAssemblyReference.cache

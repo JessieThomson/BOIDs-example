@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOIDs example", "BOIDs example\BOIDs example\BOIDs example.csproj", "{618D71FB-8111-4C13-9142-D5B97F2C441A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BOIDs exampleContent", "BOIDs example\BOIDs exampleContent\BOIDs exampleContent.contentproj", "{DE95AF67-32E3-421B-9B0C-2E81278D2536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618D71FB-8111-4C13-9142-D5B97F2C441A}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{618D71FB-8111-4C13-9142-D5B97F2C441A}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{618D71FB-8111-4C13-9142-D5B97F2C441A}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{618D71FB-8111-4C13-9142-D5B97F2C441A}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{618D71FB-8111-4C13-9142-D5B97F2C441A}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{618D71FB-8111-4C13-9142-D5B97F2C441A}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{DE95AF67-32E3-421B-9B0C-2E81278D2536}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{DE95AF67-32E3-421B-9B0C-2E81278D2536}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
